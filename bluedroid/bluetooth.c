@@ -18,7 +18,7 @@
  * Modifications are licensed under the License.
  */
 
-#define LOG_TAG "bluedroid"
+#define ALOG_TAG "bluedroid"
 
 #include <errno.h>
 #include <fcntl.h>
