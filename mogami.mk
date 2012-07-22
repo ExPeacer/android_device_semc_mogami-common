@@ -34,7 +34,9 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     hostapd_cli \
-    hostapd
+    hostapd \
+    calibrator \
+    libnl_2
 
 PRODUCT_PACKAGES += \
     Fmapplication \
