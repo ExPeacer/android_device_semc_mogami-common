@@ -105,7 +105,7 @@ on boot
     insmod /system/lib/modules/compat_firmware_class.ko
     insmod /system/lib/modules/cfg80211.ko
     insmod /system/lib/modules/mac80211.ko
-	exec /system/bin/wifiload
+    exec /system/bin/wifiload
     insmod /system/lib/modules/wl12xx.ko
     insmod /system/lib/modules/wl12xx_sdio.ko
 
